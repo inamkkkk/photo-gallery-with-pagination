@@ -1,0 +1,48 @@
+# Flutter/Dart-specific
+.dart_tool/
+.packages
+.pub-cache/
+*.iml
+*.ipr
+*.iws
+/ios/Flutter/AppFrameworkInfo.plist
+/macos/Flutter/AppFrameworkInfo.plist
+/linux/flutter/ephemeral
+/windows/flutter/ephemeral
+
+# Built application artifact
+*.apk
+*.ipa
+*.dmg
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+crashlytics-build.properties
+
+# IDE Config Files
+.idea/
+.vscode/
+
+# Git LFS files
+.gitattributes
+
+# Logs
+*.log
+
+# Local configuration file
+local.properties
+
+# Gradle files
+/android/.gradle
+/android/build
+/android/gradle/wrapper/gradle-wrapper.properties
+
+# Node modules
+node_modules/
+
+# Generated files
+/lib/generated/
